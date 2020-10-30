@@ -18,5 +18,6 @@ p{
 }
 body{
     background-image: url(https://e204149mt.github.io/images/05.jpg); 
+    background-repeat: repeat;
 }
 
