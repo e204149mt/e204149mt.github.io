@@ -1,0 +1,22 @@
+h1{
+    color:#ffffff;
+    font-size:50px;
+    text-align:center;
+    background-color:#444444;
+}
+
+h2{
+    color:darkcyan;
+    text-align:center;
+    background-color:springgreen;
+}
+h3{
+    color:blue;
+}
+p{
+    color:darkgreen;
+}
+body{
+    background-image: url(../images/05.JPG); 
+}
+

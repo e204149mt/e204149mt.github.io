@@ -1,0 +1,18 @@
+h1{
+    color:#00ffff;
+    font-size:50px;
+    font-weight:bold;
+    font-family:"Impact";
+    text-align:center;
+    background-color:#444444;
+}
+p{
+    background-color: yellow;
+}
+body{
+    background-image: url(../images/02.JPG);
+    background-repeat:repeat-y;
+    background-attachment: fixed;
+    background-position: right;
+    
+}
