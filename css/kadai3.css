@@ -17,7 +17,6 @@ p{
     color:darkgreen;
 }
 body{
-    background-image: url(https://e204149mt.github.io/images/05.jpg); 
-    background-repeat: repeat;
+    background-image: url(../images/05.jpg); 
 }
 
