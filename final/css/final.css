@@ -1,0 +1,102 @@
+body{
+    background-image: url(../images/27.jpg);
+}
+
+div.title{
+    width:980px;
+    height:50px;
+    background-color: aquamarine;
+    text-align: left;
+    font-size: 30px;
+    font-family: "impact";
+    margin-bottom:  20px;
+    padding: 10px 0px 0px 20px; 
+        
+}
+
+div.naka{
+    font-size: 0;
+    background-color: aqua
+    width: 1000px
+    
+}
+
+div.A1{
+    display:inline-block;
+    vertical-align:top; 
+    background-color: gray;
+    margin-right:  50px;
+}
+
+div.A2{
+    display:inline-block;
+    vertical-align:top; 
+     background-color: gray;
+  
+}
+
+div.A2-2{
+    display:inline-block;
+    vertical-align:top; 
+     background-color: gray;
+    
+  
+}
+
+div.images{
+    font-size:0;
+    width: 1000px;
+    
+    height:300px;  
+}
+
+div.article{
+    width:700px;
+    height:50px;
+    background-color: bisque;
+    text-align: center;
+    font-size: 15px;
+   
+    
+}
+
+div.menu{
+    font-size:30px;
+    text-align: center;
+    width: 250px;
+      height:40px;
+    background-color: darkred;
+    margin-bottom:10px;
+}
+
+div.menu2{
+    font-size:30px;
+    text-align: center;
+    width: 250px;
+      height:100px;
+    background-color: darkred;
+    margin-bottom: 10px;
+}
+div.menu3{
+    font-size:30px;
+    text-align: center;
+    width: 250px;
+      height:100px;
+    background-color:darkred;
+    
+}
+
+div.footer{
+    width:1000px;
+    height:40px;
+    background-color: cadetblue;
+    text-align: right;
+    font-size: 30px;
+    margin-top: 20px;
+    
+}
+
+div.rap{
+    width:1000px;
+    margin: 0px auto;
+}
